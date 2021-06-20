@@ -6,7 +6,7 @@ To run the project, clone to your local repo and run the following in command li
 python init.py
 ```
 
-* This project requires python 3.6 or above to run
+* `This project requires python 3.6 or above to run`
 
 Architecture diagram for better understanding:
 ![alt text](https://github.com/uttamsilversurfer/RBACGroupChat/raw/main/demo/bs_assgn_arch_diag.png)
