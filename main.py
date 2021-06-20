@@ -1,4 +1,3 @@
-import json
 from Resource import Resource
 from Roles import Roles
 from Users import Users
