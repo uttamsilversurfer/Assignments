@@ -5,6 +5,10 @@ To run the project, clone to your local repo and run the following in command li
 ```sh
 python init.py
 ```
+or
+```sh
+python3 init.py
+```
 
 * `This project requires python 3.6 or above to run`
 
