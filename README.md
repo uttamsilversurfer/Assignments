@@ -1,2 +1,4 @@
 # A Role based auth system
-### With Simulation of a group chat with admin and members as participant
+### Simulating a group chat with admin and members as participant
+
+![alt text](https://github.com/uttamsilversurfer/RBACGroupChat/raw/main/demo/bs_assgn_arch_diag.png)
